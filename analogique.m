@@ -40,6 +40,9 @@ x(index(1):end)=course;
 v(index(1):end)=0;
 a(index(1):end)=0;
 Ftotal_x(index(1):end)=0;
+
+
+
 % Tracer la force, l'accélération, la vitesse et le déplacement dans le temps
 figure;
 subplot(4, 1, 1);
